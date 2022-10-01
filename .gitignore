@@ -1,0 +1,4 @@
+_site/assets/img/posts/*
+_site/generated/assets/*
+.jekyll-cache/*
+.venv/*
