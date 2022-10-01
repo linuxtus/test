@@ -1,9 +1,0 @@
-[core]
-	repositoryformatversion = 0
-	filemode = false
-	bare = false
-	logallrefupdates = true
-	ignorecase = true
-[remote "origin"]
-	url = https://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@github.com/linuxtus/test.git
-	fetch = +refs/heads/*:refs/remotes/origin/*
